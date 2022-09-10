@@ -1,0 +1,29 @@
+Modulo sobre Git New Tab: Aprendizado por Paulo Ricardo
+
+No módulo sobre Git aprendi inicialmente como funciona a internet, a troca de informações entre os computadores e servidor.
+Back-end, também conhecida como Server-end, é a codificação feita no servidor, onde a resposta da solicitação é dada com o código completo.
+Front-end, também conhecido como Client-end, é a codificação direcionada ao cliente, onde o servidor responde a solicitação com partes a serem preenchidas na máquina solicitante.
+
+Avançando no módulo aprendi como usar o git, dei meu primeiro commit e fiz edições além de consegui reparar meu terminal que tinha desconfigurado.  XD
+
+Aprendi como criar repositorios locais e externos atraves do git e seus principais comandos iniciais:
+git init - para iniciar um repositorio local
+git add - para adicionar arquivos ao repositorio
+git commit - para comitar arquivos
+git status - para verificar em qual estagio os arquivos estão e quais arquivos estão presentes nas pastas
+git push - para enviar arquivos commitados para o repositorio externo (git hub)
+git clone - para clonar um repositorio externo
+git pull - para lançar os arquivos editados
+
+Alem desses, alguns outros tambem foram absorvidos na observação processo como o "git chekout -b xxxx" para adicionar uma branch no repositorio e o "touch xxxx.txt"
+para criação de arquivos atraves do terminal e concluindo a parte sobre git aprendi sobre as interfaces visuais que ajudam bastante os iniciantes (like me),
+inclusive esse arquivo será enviado via GitHub Desktop :).
+
+Por fim, aprendi sobre o deploy automático que minimiza o trabalho de atualização e os erros no processo de administração de sites.
+
+
+Vamos para HTML e CSS!!  :D
+
+Paulo Ricardo Nascimento Trinchão.
+
+
